@@ -1,3 +1,3 @@
 # hello-world
 My first program
-Really! it works 
+Let us merge to the master directory
